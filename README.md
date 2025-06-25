@@ -1,2 +1,2 @@
 # Spiritual-photography-portfolio
-It will holder some spiritual photos, gallery etc.
+It will hold some spiritual photos, gallery etc.
